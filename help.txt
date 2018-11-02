@@ -1,4 +1,4 @@
-﻿╭───「 Help 」
+﻿╭───「 $-K Help 」
 ├≽ {key}About
 ├≽ {key}Help
 ├≽ {key}Me
@@ -9,14 +9,14 @@
 ├≽ {key}Status
 ├≽ {key}Abort
 ├≽ {key}Error
-├──「 Self 」
+├──「 $-K Self 」
 ├≽ {key}MyProfile
 ├≽ {key}Profile
 ├≽ {key}Mimic
 ├≽ {key}Broadcast
 ├≽ {key}FriendList
 ├≽ {key}BlockList
-├──「 Group 」
+├──「 $-K Group 」
 ├≽ {key}GroupInfo
 ├≽ {key}GroupList
 ├≽ {key}InvitationList
@@ -33,7 +33,7 @@
 ├≽ {key}Kick <mention>
 ├≽ {key}Vkick <mention>
 ├≽ {key}Greet
-├──「 Settings 」
+├──「 $-K Settings 」
 ├≽ {key}Setkey
 ├≽ {key}AutoAdd
 ├≽ {key}AutoJoin
@@ -43,5 +43,6 @@
 ├≽ {key}CheckContact <on/off>
 ├≽ {key}CheckPost <on/off>
 ├≽ {key}CheckSticker <on/off>
-│ Copyright @Zero-Cool404
-╰───「 Aditmadzs 」
+├≽ line.me/ti/p/fDkawyMoqD
+│Copyright @sallakhsystem
+╰───「 ™ ﾑცცﾑ$ $ﾑℓℓﾑKԋ ცⓞT ™ 」
