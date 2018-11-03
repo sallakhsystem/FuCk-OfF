@@ -78,4 +78,4 @@ All Members TEAM SALLAKH NEW BOT'S:
 
 And others FRIEND'S.
 
-## DONT FORGET TO TNX FOR ABBAS SALLAKH
+## Everyone uses my achievements, DONT forget to thank Dr. Aცცﾑ$ SAℓℓﾑKԋ
