@@ -1,23 +1,23 @@
 {
     "autoAdd": {
         "status": false,
-        "message": "Hello @!, thanks for add me as your friend\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ",
+        "message": "Hello @!, thanks for add me as your friend\nDiD you want to use selfbot & other mybots PM ID LINE : https://line.me/ti/p/fDkawyMoqD",
         "reply": true
     },
     "autoJoin": {
         "status": false,
-        "message": "Hello @!, thanks for invite me to this group\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ",
+        "message": "Hello @!, thanks for invite me to this group\nDiD you want to use ALL MY BEST BOTS!? OK. Essyy just Sent pm . MY CONTACT LINE : https://line.me/ti/p/fDkawyMoqD",
         "reply": true,
         "ticket": false
     },
     "autoRead": false,
     "autoRespond": {
         "status": false,
-        "message": "Hello @!, thanks for your message this is auto respond\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ"
+        "message": "Hello @!, thanks for your message this is auto respond\nDiD you want to use My BoTs. Ok pls Follow Me ."
     },
     "autoRespondMention": {
         "status": true,
-        "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ"
+        "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nDiD you want to use THIS SELFBOT?!.NO PROBLEM JUST Comment or ETC"
     },
     "changeGroupPicture": [],
     "changePictureProfile": false,
@@ -25,11 +25,11 @@
     "checkContact": false,
     "checkPost": false,
     "checkSticker": false,
-    "defaultReplyReader" : "Hello @!, come here join to chat\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ",
+    "defaultReplyReader" : "Hello @!, come here join to chat\nDo you want (NEED) this SELFBOT? JUST ADD ME : https://line.me/ti/p/fDkawyMoqD",
     "greet": {
         "join": {
             "status": true,
-            "message": "Hello @!, welcome to group {name}\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ"
+            "message": "Hello @!, welcome to group {name}\nDid you want to use THIS SELFBOT ? JUST ADD & SENT PM. https://line.me/ti/p/fDkawyMoqD"
         },
         "leave": {
             "status": false,
@@ -50,6 +50,6 @@
         "status": true,
         "key": "."
     },
-    "copyright": "If you respect the author please don't remove this copyright\n© 2018 Hello World",
-    "author_lineid": "You can add the author by line id, https://line.me/ti/p/~zero-cool404"
+    "copyright": "If you respect the author please don't remove this copyright\n© ABBAS @sallakhsystem",
+    "author_lineid": "You can add the author by line id, https://line.me/ti/p/fDkawyMoqD"
 }
