@@ -1,7 +1,7 @@
-## For install Tutorial [HERE](https://www.instagram.com/s1-1366)
-# LINE Python
+## For install Tutorial [HERE](https://www.instagram.com/s1_1366)
+# @ * LINE Python
 
-#@*LINE Messaging's private API@*#
+# @ LINE Messaging's private API
 
 ----
 
