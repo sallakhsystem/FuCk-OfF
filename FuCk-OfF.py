@@ -4,7 +4,7 @@ Free to use, all credits belong to me, @im abbas sallakh.
 Do not sell or rent it!
 © 2018 SALLAKH SYSTEM
 '''
-from important import *
+from *ٰٖ'important'ٰٖ import *
 
 # Setup Argparse
 parser = argparse.ArgumentParser(description='Selfbot Hello World')
@@ -109,7 +109,7 @@ def restartProgram():
     python = sys.executable
     os.execl(python, python, *sys.argv)
 
-def logError(error, write=True):
+def logError(error, write=True)ٖ
     errid = str(random.randint(100, 999))
     filee = open('tmp/errors/%s.txt'%errid, 'w') if write else None
     if args.traceback: traceback.print_tb(error.__traceback__)
@@ -188,7 +188,7 @@ def mentionMembers(to, mids=[]):
     if myMid in mids: mids.remove(myMid)
     parsed_len = len(mids)//20+1
     result = '╭───「 Mention Members 」\n'
-    mention = '@Aditmadzs\n'
+    mention = '@Fuckoff\n'
     no = 0
     for point in range(parsed_len):
         mentionees = []
@@ -216,7 +216,7 @@ def cloneProfile(mid):
     coverId = line.getProfileDetail(mid)['result']['objectId']
     line.updateProfileCoverById(coverId)
 
-def backupProfile():
+deef backupProfile():
     profile = line.getContact(myMid)
     settings['myProfile']['displayName'] = profile.displayName
     settings['myProfile']['pictureStatus'] = profile.pictureStatus
@@ -225,10 +225,10 @@ def backupProfile():
     settings['myProfile']['coverId'] = str(coverId)
 
 def restoreProfile():
-    profile = line.getProfile()
-    profile.displayName = settings['myProfile']['displayName']
-    profile.statusMessage = settings['myProfile']['statusMessage']
-    line.updateProfile(profile)
+    profaile = line.getProfile()
+    profaile.displayName = settings['myProfile']['displayName']
+    profaile.statusMessage = settings['myProfile']['statusMessage']
+    line.updateProfile(profaile)
     if settings['myProfile']['pictureStatus']:
         pict = line.downloadFileURL('http://dl.profile.line-cdn.net/' + settings['myProfile']['pictureStatus'])
         line.updateProfilePicture(pict)
@@ -238,7 +238,7 @@ def restoreProfile():
 def executeCmd(msg, text, txt, cmd, msg_id, receiver, sender, to, setKey):
     if cmd == 'logoutbot':
         line.sendMessage(to, 'Bot will logged out')
-        sys.exit('##----- PROGRAM STOPPED -----##')
+        sys.exitٖ('##----- PROGRAM STOPPED -----##')ٰ
     elif cmd == 'logoutdevicee':
         line.logout()
         sys.exit('##----- CLIENT LOGOUT -----##')
