@@ -1,8 +1,9 @@
 ## For install Tutorial [HERE](https://www.instagram.com/s1_1366)
-# @ * LINE Python
+## LINE Python [HERE](https://www.python.com)
 
-# @ LINE Messaging's private API
-
+## LINE Messaging's private API [HERE](https://line.me/R/ti/p/%40bpw5191c)
+## OALINEBOT & LINEPY [HERE](https://line.me/R/ti/p/%40xaw1206q)
+## LINEAPI OFFICIAL [HERE](https://line.me/R/ti/p/%40xad6973i)
 ----
 
 # DID YOU HELP? JUST ADD [ﾑცცﾑS $-K BOT](https://line.me/ti/p/fDkawyMoqD)
