@@ -4,7 +4,7 @@ Free to use, all credits belong to me, @im abbas sallakh.
 Do not sell or rent it!
 © 2018 SALLAKH SYSTEM
 '''
-from *ٰٖ'important'ٰٖ import *
+from 'important' import *
 
 # Setup Argparse
 parser = argparse.ArgumentParser(description='Selfbot Hello World')
