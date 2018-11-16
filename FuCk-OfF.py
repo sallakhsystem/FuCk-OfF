@@ -216,7 +216,7 @@ def cloneProfile(mid):
     coverId = line.getProfileDetail(mid)['result']['objectId']
     line.updateProfileCoverById(coverId)
 
-deef backupProfile():
+def backupProfile():
     profile = line.getContact(myMid)
     settings['myProfile']['displayName'] = profile.displayName
     settings['myProfile']['pictureStatus'] = profile.pictureStatus
@@ -225,9 +225,9 @@ deef backupProfile():
     settings['myProfile']['coverId'] = str(coverId)
 
 def restoreProfile():
-    profaile = line.getProfile()
+    profile = line.getProfile()
     profaile.displayName = settings['myProfile']['displayName']
-    profaile.statusMessage = settings['myProfile']['statusMessage']
+    profile.statusMessage = settings['myProfile']['statusMessage']
     line.updateProfile(profaile)
     if settings['myProfile']['pictureStatus']:
         pict = line.downloadFileURL('http://dl.profile.line-cdn.net/' + settings['myProfile']['pictureStatus'])
